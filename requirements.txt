@@ -3,6 +3,6 @@ opencv-python-headless
 easyocr
 numpy
 pillow
+requests
 torch
 torchvision
-inference-sdk==0.9.23
