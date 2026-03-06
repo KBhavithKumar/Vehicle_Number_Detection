@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+easyocr
+inference-sdk
+numpy
+pillow
+torch
+torchvision
