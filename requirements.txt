@@ -1,8 +1,8 @@
 streamlit
 opencv-python-headless
 easyocr
-inference-sdk
 numpy
 pillow
 torch
 torchvision
+inference-sdk==0.9.23
