@@ -1,8 +1,6 @@
 streamlit
 opencv-python-headless
-easyocr
 numpy
 pillow
 requests
-torch
-torchvision
+pytesseract
